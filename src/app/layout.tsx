@@ -33,6 +33,9 @@ export const metadata: Metadata = {
     title: "CV KAILI KAZAM - Jasa Konstruksi Profesional",
     description: "Solusi konstruksi terpercaya untuk semua kebutuhan bangunan Anda",
   },
+  other: {
+    "facebook-domain-verification": "p0c90dsy5tv7po0plai416fnz61ylr",
+  },
 };
 
 export default function RootLayout({
